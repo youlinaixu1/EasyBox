@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "483901795050",
+    "project_id": "easybox-b1d87",
+    "storage_bucket": "easybox-b1d87.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483901795050:android:f5a71059c9838f806e4593",
+        "android_client_info": {
+          "package_name": "com.easybox.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHumlsRB5RWrk7ZiPfbSdQz_YKuZ6uja0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
